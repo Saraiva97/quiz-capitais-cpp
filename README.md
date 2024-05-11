@@ -10,7 +10,7 @@
 - Desenvolver habilidades de programação em C++ enquanto os usuários se divertem testando seus conhecimentos sobre as capitais do mundo.
 
 <div align="center">
-<img src="https://github.com/Saraiva97/quiz-capitais-cpp/assets/93497276/8869fdd7-e561-4915-9cc0-a825de62af1d" style="width: 200px"/>
+<img src="https://github.com/Saraiva97/quiz-capitais-cpp/assets/93497276/8869fdd7-e561-4915-9cc0-a825de62af1d" style="width: 100px"/>
 </div>
 
 **Como Funciona:**
